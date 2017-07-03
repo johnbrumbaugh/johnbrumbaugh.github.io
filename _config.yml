@@ -1,2 +1,4 @@
 name: John's Blog
 markdown: kramdown
+
+theme: jekyll-theme-cayman
